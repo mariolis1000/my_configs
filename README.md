@@ -5,6 +5,7 @@ along with their respective apps,
 and the paths from ~/ 
 separated with a (-)   :
 
-init.vim     -   Neovim   -   ~/.config/nvim/init.vim
-.gitconfig   -   Git      -   ~/.gitconfig
-.bashrc      -   Bash     -   ~/.bashrc
+init.vim       -   Neovim   -   ~/.config/nvim/init.vim
+.gitconfig     -   Git      -   ~/.gitconfig
+.bashrc        -   Bash     -   ~/.bashrc
+octave-gui.ini -   Octave   -   ~/.config/octave/octave-gui.ini
