@@ -7,3 +7,4 @@ separated with a (-)   :
 
 init.vim     -   Neovim   -   ~/.config/nvim/init.vim
 .gitconfig   -   Git      -   ~/.gitconfig
+.bashrc      -   Bash     -   ~/.bashrc
