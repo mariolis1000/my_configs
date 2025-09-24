@@ -1,0 +1,6 @@
+[core]
+	autocrlf = input
+	editor = nvim
+[user]
+	email = mariolis1000@gmail.com
+	name = Marios
