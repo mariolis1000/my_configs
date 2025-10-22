@@ -5,7 +5,6 @@
 
 :command WQ wq
 :command Wq wq
-:command wQ wq
 :command W w
 :command Q q
 
